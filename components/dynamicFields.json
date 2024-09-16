@@ -1,0 +1,17 @@
+[
+  {
+    "label": "Resolution",
+    "name": "resolution",
+    "type": "input"
+  },
+  {
+    "label": "Screen type",
+    "name": "screen_type",
+    "type": "input"
+  },
+  {
+    "label": "RAM",
+    "name": "ram",
+    "type": "input"
+  }
+]
